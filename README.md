@@ -87,7 +87,7 @@ The keys above are not valid, so don't try to use them.
 #### 1. Clone the repository
 
 ```
-git clone https://github.com/pzinsta/pizzeria.git
+git clone https://github.com/omarkashour/QAProject
 ```
 
 #### 2. Build the .war file
